@@ -1,8 +1,9 @@
-# Password Encrypting with crypThor.py
+# Password Management with crypThor
 
-I have created this Python tool,
-Store your passwords in `SHA256` encryption,
-and then decrypt your stored password.
+I have created this Python tool, so you can
+store your passwords in `SHA256` hashing, 
+encrypting thanks to a secret key,
+and then decrypt your stored hashed-password.
 
 Very easy to set, and use!
 
